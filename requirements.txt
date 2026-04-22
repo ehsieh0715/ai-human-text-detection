@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+gensim
+tqdm
+xgboost
+lightgbm
+sentence-transformers
+jupyterlab
