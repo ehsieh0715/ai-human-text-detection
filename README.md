@@ -26,9 +26,9 @@ NLP project for distinguishing AI-generated and human-written academic abstracts
 ## 🌐 Quick Access
 
 - 📓 [Part 1 – Classical Text Classification](notebooks/01_classical_text_classification.ipynb)  
-- 📄 [Part 1 – HTML Export](notebooks/01_classical_text_classification.html)
+- 📄 [Part 1 – HTML Report](notebooks/01_classical_text_classification.html)
 - 📓 [Part 2 – Embedding and Ensemble Models](notebooks/02_embedding_and_ensemble_models.ipynb)  
-- 📄 [Part 2 – HTML Export](notebooks/02_embedding_and_ensemble_models.html)
+- 📄 [Part 2 – HTML Report](notebooks/02_embedding_and_ensemble_models.html)
 
 
 ## 📌 Overview
