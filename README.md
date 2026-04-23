@@ -1,4 +1,4 @@
-# Detecting AI-Generated vs Human-Written Academic Abstracts
+# 🤖 AI vs Human Text Detection
 
 NLP project for distinguishing AI-generated and human-written academic abstracts using sparse lexical features and embedding-based classifiers.
 
